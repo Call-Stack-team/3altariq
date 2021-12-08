@@ -3,7 +3,7 @@
 * Ahmad al assad
 * yazan al kharabsheh
 * Mahmoud abu baker
-* Hiba madi
+* Hiba Almade
 * Tamara al jamain
 
 ### Overview 
