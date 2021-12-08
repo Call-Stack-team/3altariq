@@ -6,11 +6,9 @@
 * Hiba madi
 * Tamara al jamain
 
-### Desciption
+### Overview 
 
-a site that enables users to contact other users in order to hitch a ride.
-this app will solve is connecting users for joining rides to a location
-The minimal feature that we are required to offer is a working app with an efficient system to contact the posters and organize the rides.
+With the high prices of fuel and the need to get passengers to reduce the burden, in addition to the need to find a car to take us to the desired destination at any time possible and at a good price, we are creating an application that facilitates communication between users in order to deliver them where they want..
 
 ### management board
 
