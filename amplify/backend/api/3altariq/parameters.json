@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "3altariq",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2021-12-09T13:53:01.246Z"
+}
